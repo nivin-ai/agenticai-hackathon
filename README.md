@@ -1,1 +1,2 @@
 # agenticai-hackathon
+# agentic-hackathon
